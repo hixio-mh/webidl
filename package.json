@@ -3,7 +3,7 @@
   "description": "Checks that the WebIDL grammar is LL(1)",
   "devDependencies": {
     "jsdom": "^11.3.0",
-    "syntax-cli": "0.0.97",
+    "syntax-cli": "0.1.22",
     "webidl-grammar-post-processor": "^0.4.0"
   },
   "scripts": {
